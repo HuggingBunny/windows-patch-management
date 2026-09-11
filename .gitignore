@@ -1,0 +1,23 @@
+# Diagnostic output bundles and logs
+*.zip
+*.cab
+*.log
+*.etl
+*.evtx
+*.csv
+*.xml
+*.jsonl
+
+# Temporary diagnostic directories
+PatchDiag_*/
+C:\PatchDiagnostics\
+C:/PatchDiagnostics/
+/PatchDiagnostics/
+
+# OS and Editor metadata
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
