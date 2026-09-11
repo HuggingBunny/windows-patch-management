@@ -1,4 +1,4 @@
-# Enterprise Windows Patch Management, Triage & Remediation Engineering Framework
+# Enterprise Windows Patch Management, Triage & Remediation Engineering Framework (without the AI)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows%207%20to%2011%20%7C%20Server%202008R2%20to%202025-0078D6.svg)](docs/01-architecture-and-decision-tree.md)
